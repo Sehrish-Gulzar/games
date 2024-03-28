@@ -1,0 +1,1 @@
+Germane basline mame[w] documents are now in the help file.

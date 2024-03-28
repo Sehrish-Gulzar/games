@@ -1,0 +1,8 @@
+Reading config file E:\Games\Snes\snes9x-1.53-win32-x64/snes9x.conf.
+Saving	config file	E:\Games\Snes\snes9x-1.53-win32-x64/snes9x.conf
+Sound buffer size: 8192 (2048 samples)
+No ROM file header found.
+Map_LoROMMap
+"ALL_STARS + WORLD" [checksum ok] LoROM, 32Mbits, ROM+RAM+BAT, NTSC, SRAM:64Kbits, ID:____, CRC32:F84305B1
+Sound buffer size: 8192 (2048 samples)
+Saving	config file	E:\Games\Snes\snes9x-1.53-win32-x64/snes9x.conf
